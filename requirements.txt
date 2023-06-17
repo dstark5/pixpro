@@ -1,0 +1,9 @@
+PyQt5
+numpy
+shutil
+random
+dlib
+atexit
+pymsgbox
+multiprocessing
+scipy
