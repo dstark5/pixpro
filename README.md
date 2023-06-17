@@ -12,7 +12,7 @@ PyQt5, openCv, numpy and scipy.
 
 - crop
 - blur
-- adujust brightness,contrast
+- adjust brightness,contrast
 - resize
 - rotate
 - flip
